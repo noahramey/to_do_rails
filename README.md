@@ -1,4 +1,4 @@
-# Spotify Track Recommendations Based on Playlists
+# To Do (Ruby on Rails)
 
 This app was made to practice using Ruby on Rails. It allows users to create lists and tasks ansd associate them with each other.
 
